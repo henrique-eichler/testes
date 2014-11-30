@@ -2,7 +2,7 @@
     <wb-module deploy-name="AutoVendas">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/java/main/src"/>
-        <wb-resource deploy-path="/" source-path="/java/main/web"/>
+        <wb-resource deploy-path="/" source-path="/web" tag="defaultRootSource"/>
         <property name="context-root" value="AutoVendas"/>
         <property name="java-output-path" value="/AutoVendas/build/classes"/>
     </wb-module>
